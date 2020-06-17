@@ -1,0 +1,62 @@
+{
+  {
+  "name": "Healing potion",
+  "price": 35,
+  "description": "A magical myriad of mushrooms, berries, love and magic. Take a sip to ail your sickness, rub some on to close that hole left by a gorgons horns. Doesn't go off and always effective. CAUTION do not mix with alcohol or tobacco unless you want mind shredding hallucinations",
+  "url": "https://i.imgur.com/X3m09nY.png"
+}
+{
+  "name": "Cloak on invisibility",
+  "price": 450,
+  "description": "A cloak that lets you go invisible! what more can I say? Maybe I am in the room reading this over your shoulder? HOW WOULD YOU KNOW! BEWARE: Elminster inc cannot be held responsible for any immoral use of this item and all purchasers will be tracked",
+  "url": "https://image.shutterstock.com/image-photo/vintage-tailors-mannequin-elegant-room-260nw-710988283.jpg"
+}
+{
+  "name": "Boots of flying",
+  "price": 375,
+  "description": "Put them on and up you go! Ignore the morning traffic, save commute costs! Never pay to go on holiday again! Simply put them on and jump three times at the same time to get going! WARNING: boots do not impart ability to handle low air pressure, high speeds or velocity induced injuries",
+  "url": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/490/1000/1000/636284785276517401.jpeg"
+}
+{
+  "name": "Sword of slicing",
+  "price": 950,
+  "description": "Dice, slice or slash this is the sword for you! A well placed hit will sever a limb, detach a head, or cut that perfect slice of wedding cake! Magically empowered to aim for the joints its almost impossible to miss! Just remember to be careful when drawing and sheathing it, Elminster Inc can recommend healing potions in the case of lost fingers. NO DISCOUNTS",
+  "url": "https://qph.fs.quoracdn.net/main-qimg-559bff6ef9259f5352b9083824dd8d2e.webp"
+}
+{
+  "name": "Bag of holding",
+  "price": 1050,
+  "description": "Bored of carrying everything? Back getting you down and hunched? This bag will solve all your problems, making use of extradimensional space this simple satchel can carry up to 500kilos of assorted loot and will feel as heavy as a feather! Keep anything you like in there! Swords, stars, small children! The choice is yours! N.B do not store children in the bad there is no atmosphere in there",
+  "url": "https://vignette.wikia.nocookie.net/the-hanged-three/images/5/59/BagofHolding.jpg/revision/latest/scale-to-width-down/340?cb=20180817000221"
+}
+{
+  "name": "Deck of Many things",
+  "price": 3000,
+  "description": "Ever wished you could just change your fate at the draw of a card! Now you can! This deck of 22 cards can change your life, give you a castle, bestow wealth, or even summon new friends and allies! Its a must have for the reality bender in you. Beware 50% of the deck can have negative effects, we will not be held responsible for those whose souls get sucked into the abyss",
+  "url": "https://cdnb.artstation.com/p/assets/images/images/015/945/473/large/ian-haramaki-deckofmanythingsflames.jpg?1550272134"
+}
+{
+  "name": "Amulet of Ultimate Evil",
+  "price": 50000,
+  "description": "DO NOT BUY THIS, it give you ultimate world shaping power but at what cost?? If its called the amulet of ULTIMATE EVIL what do you expect!",
+  "url": "https://www.aidedd.org/dnd/images-om/talisman-of-ultimate-evil.jpg"
+}
+{
+  "name": "The Players Handbook",
+  "price": 2758,
+  "description": "Want to know what rules govern our strange world? Understand why you have to wait for enemies to attack you and they wait for you to attack them. Every needed to understand what makes as paladin a paladin? This book is for you! Learn the strange meta of our world! Warning may cause insanity at understanding our cosmic insignificance ",
+  "url": "https://images-na.ssl-images-amazon.com/images/I/81pViXqeVLL.jpg"
+}
+{
+  "name": "Potion of water breathing",
+  "price": 50,
+  "description": "Ever wanted to see the world through the eyes of a fish? Swim the seas like a majestic whale? Then take a swig of this and be able to breath underwater! No need to come up for air for over an hour! A must have in the diving community! CAUTION: You cannot breath on land when you take this, this does not impart the ability to survive the crushing cold or pressure of the deep sea",
+  "url": "https://vignette.wikia.nocookie.net/forgottenrealms/images/3/3d/Potion_of_water_breathing-5e.jpg/revision/latest/top-crop/width/360/height/450?cb=20200512233322"
+}
+{
+  "name": "Armour of invlunerability",
+  "price": 7490,
+  "description": "Armour that makes you all bu invulnerable! Nothing gets through! No arrow will pierce, no sword will slash! And no Mace will crush! Smash your foes with impunity as you become a walking tank! (Does not negate spells, magical weapons negate invulnerability properties)",
+  "url": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/112/1000/1000/636284703865068888.jpeg"
+}
+}
